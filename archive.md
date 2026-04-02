@@ -8,6 +8,9 @@ layout: page
 
 ##### [2022]
 
+
+##### [2022]
+
 + Yang Yang#, **Liwei Zhang<sup>#\*</sup>**, Chaoyang Xiong, Jun Chen, Li Wang, Zengqi Wen, Juan Yu, Ping Chen, Yanhui Xu, Jingji Jin, Yong Cai<sup>*</sup>, Guohong Li<sup>*</sup>. (2022). HIRA complex presets transcriptional potential through coordinating depositions of the histone variants H3.3 and H2A.Z on the poised genes in mESCs. Nucleic Acids Research. doi: 10.1093/nar/gkab1221. [[link]](https://academic.oup.com/nar/article/50/1/191/6459385)
 
 ##### [2019]
