@@ -6,8 +6,15 @@ layout: page
 
 ### Papers
 
-##### [2022]
+##### [2026]
 
++ Jun Chen<sup>#</sup>, Jiyu Chen<sup>#</sup>, Zhouliang Yu<sup>#</sup>, Liwei Zhang<sup>#</sup>, Yanchao Liu<sup>#</sup>, Xuan Ouyang, Juan Yu, Menghan Wang, Shangqiang Xie, Ming Wang, Tiantian Zhang, Zhaohui Jin, Bin Wu, Li Huang, Zijuan Gu, Lin Liu, Bing Zhu, Ping Chen, Haiyan Lin, Jicheng Zhao, Sheng Ye, Aiwu Dong<sup>*</sup>, Yang Yu<sup>*</sup>, Ying Huang<sup>*</sup>, Guohong Li<sup>*</sup>. (2026). Histone H3.3 phosphorylation facilitates H3K9me3-heterochromatin formation during retrotransposon silencing and X-chromosome inactivation via H3.3K27me3–CBX7–KAP1 axis. Science Bulletin. doi: 10.1016/j.scib.2026.01.039. [[link]](https://www.sciencedirect.com/science/article/pii/S2095927326000460) 
+
+##### [2025]
+
++ Jian Wang<sup>#</sup>, Yimei Ren<sup>#</sup>, Juan Chen<sup>#</sup>, Shanbin Chen<sup>#</sup>, Xiaoxia Li, Jianwen Chen, Xifan Wang, Lijun Li, Liang Zhao, Yixuan Li, Qi Zhang, Wei Xiong, Huiyuan Guo, Hao Zhang, Xiaoxu Zhang, Fuqing Wang, Yanling Hao, Jingjing He, Bing Fang, Jie Guo, Shaoyang Ge, Fazheng Ren, **Liwei Zhang<sup>*</sup>**, Jie Luo<sup>*</sup>, Ran Wang<sup>*</sup>, Yulong Yin<sup>*</sup>. (2025). Bifidobacterium animalis subsp. Lactis A6 alleviates comorbid constipation and depression by rebalancing tryptophan metabolism. Science Bulletin. doi: 10.1016/j.scib.2025.04.042. [[link]](https://www.sciencedirect.com/science/article/pii/S2095927325004001)
+
++ Yiran Guan<sup>#</sup>, Ruixin Zhu<sup>#</sup>, Wen Zhao<sup>#</sup>, Langrun Wang<sup>#</sup>, You Zhao, zhong Zeng Qiuyue Jiang, Zeyang Zhu, Jiayu GouJ, Qi ZhangJie GuoJ, Keji Li, Liang Zhao, Yixuan Li, Pengjie Wang, Bing Fang, Weilian Hung, Jian He, **Liwei Zhang<sup>*</sup>**, Ran Wang<sup>*</sup>, Jingjing He<sup>*</sup>. (2025). Effects of Lacticaseibacillus paracasei K56 on perceived stress among pregraduate students: a double-blind, randomized, placebo-controlled trial. Frontiers in Nutrition. doi: 10.3389/fnut.2025.1544713. [[link]](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1544713/full)
 
 ##### [2022]
 
