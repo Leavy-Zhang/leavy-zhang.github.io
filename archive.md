@@ -8,7 +8,7 @@ layout: page
 
 ##### [2026]
 
-+ Jun Chen<sup>#</sup>, Jiyu Chen<sup>#</sup>, Zhouliang Yu<sup>#</sup>, Liwei Zhang<sup>#</sup>, Yanchao Liu<sup>#</sup>, Xuan Ouyang, Juan Yu, Menghan Wang, Shangqiang Xie, Ming Wang, Tiantian Zhang, Zhaohui Jin, Bin Wu, Li Huang, Zijuan Gu, Lin Liu, Bing Zhu, Ping Chen, Haiyan Lin, Jicheng Zhao, Sheng Ye, Aiwu Dong<sup>*</sup>, Yang Yu<sup>*</sup>, Ying Huang<sup>*</sup>, Guohong Li<sup>*</sup>. (2026). Histone H3.3 phosphorylation facilitates H3K9me3-heterochromatin formation during retrotransposon silencing and X-chromosome inactivation via H3.3K27me3–CBX7–KAP1 axis. Science Bulletin. doi: 10.1016/j.scib.2026.01.039. [[link]](https://www.sciencedirect.com/science/article/pii/S2095927326000460) 
++ Jun Chen<sup>#</sup>, Jiyu Chen<sup>#</sup>, Zhouliang Yu<sup>#</sup>, **Liwei Zhang<sup>#</sup>**, Yanchao Liu<sup>#</sup>, Xuan Ouyang, Juan Yu, Menghan Wang, Shangqiang Xie, Ming Wang, Tiantian Zhang, Zhaohui Jin, Bin Wu, Li Huang, Zijuan Gu, Lin Liu, Bing Zhu, Ping Chen, Haiyan Lin, Jicheng Zhao, Sheng Ye, Aiwu Dong<sup>*</sup>, Yang Yu<sup>*</sup>, Ying Huang<sup>*</sup>, Guohong Li<sup>*</sup>. (2026). Histone H3.3 phosphorylation facilitates H3K9me3-heterochromatin formation during retrotransposon silencing and X-chromosome inactivation via H3.3K27me3–CBX7–KAP1 axis. Science Bulletin. doi: 10.1016/j.scib.2026.01.039. [[link]](https://www.sciencedirect.com/science/article/pii/S2095927326000460) 
 
 ##### [2025]
 
