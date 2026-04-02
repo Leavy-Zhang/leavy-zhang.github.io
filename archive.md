@@ -6,9 +6,13 @@ layout: page
 
 ### Papers
 
+##### [2022]
+
++ Yang Yang#, **Liwei Zhang<sup>#\*</sup>**, Chaoyang Xiong, Jun Chen, Li Wang, Zengqi Wen, Juan Yu, Ping Chen, Yanhui Xu, Jingji Jin, Yong Cai<sup>*</sup>, Guohong Li<sup>*</sup>. (2022). HIRA complex presets transcriptional potential through coordinating depositions of the histone variants H3.3 and H2A.Z on the poised genes in mESCs. Nucleic Acids Research. doi: 10.1093/nar/gkab1221. [[link]](https://academic.oup.com/nar/article/50/1/191/6459385)
+
 ##### [2019]
 
-+ HaiZhen Long<sup>#</sup>, **Liwei Zhang<sup>#</sup>**, Mengjie Lv<sup>#</sup>, Zengqi Wen<sup>#</sup> and *et al.* (2019). H2A.Z facilitates licensing and activation of early replication origins. Nature.  doi:10.1038/s41586-019-1877-9. [[link]](https://www.nature.com/articles/s41586-019-1877-9 "10")
++ HaiZhen Long<sup>#</sup>, **Liwei Zhang<sup>#</sup>**, Mengjie Lv<sup>#</sup>, Zengqi Wen<sup>#</sup> and *et al.* (2020). H2A.Z facilitates licensing and activation of early replication origins. Nature.  doi:10.1038/s41586-019-1877-9. [[link]](https://www.nature.com/articles/s41586-019-1877-9 "10")
 
 ##### [2018]
 
