@@ -1,6 +1,6 @@
 # CHANGELOG
 
-This file lists all non-trivial changes to Leavy Zhang's homepage.
+This file lists all non-trivial changes to Leavy Zhang's homepage (Thanks the template developed by @Dean Attali).
 
 
 
