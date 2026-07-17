@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Liwei Zhang (Leavy Zhang)
+title: Leavy Zhang
 subtitle: Associate Professor in machine learning/AI and Bioinformatics
 show-avatar: false
 ---
