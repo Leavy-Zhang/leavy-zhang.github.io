@@ -17,7 +17,7 @@ show-avatar: false
 
 ### Research of Interest
 
-Begining as a Ph.D. in Bioinformatics, currently I focus on using machine learning/AI and single cell high throughput data mining to investigate my research of interest in Biology, immunology and Nutrition Health, details of which are listed below:
+Begining as a Ph.D. in Bioinformatics, currently I focus on using machine learning/AI and single cell high throughput data mining  technologies to investigate my research of interest in Biology, immunology and Nutrition Health, details of which are listed below:
 
 - Based on web crawlers, database technology and deep learning methods to develop personalized dietary nutrition recommendation system and health big data platform.
 - Using single-cell high-throughput omics technology and virtual cell methods to screen key immune markers for autoimmune diseases, allergies and neuroimmunological diseases, and explore their immunological functional mechanisms.
