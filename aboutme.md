@@ -7,15 +7,18 @@ show-avatar: false
 
 ![Leavy Zhang](/img/leavy.jpg)
 
-### Education
-- 2016-present: Postdoc, [Guohong Li lab][1] , Institute of Biophysics, China Academy of Sciences.
-- 2011-2016: PhD, [Zhen Su lab][2] , Colledge of Biological Sciences, China Agricultural University.
-- 2007-2011: B.Sc, School of Life Science and Biotechnology, Dalian University of Technology, China.
-
-[1]: http://www.ibp.cas.cn/lighLab/ "lilab"
-[2]: http://bioinformatics.cau.edu.cn/ZhenSuLab/index_e.html "sulab"
+### Biography
+- May. 2023-present: ‌ ‌Associate Professor, Department of Nutrition and Health,China Agriculture University.
+- Jan. 2023-May. 2023: ‌ ‌Associate Research Fellow, Yang Yu lab, Institute of Eugenics and Perinatal Medicine, Guangzhou Women and Children's Medical Center.
+- 2019-2022: ‌Research Associate‌, Liguo Zhang lab, Institute of Biophysics, China Academy of Sciences.
+- 2016-2019: Postdoc, Guohong Li lab, Institute of Biophysics, China Academy of Sciences.
+- 2011-2016: Ph.D., Zhen Su lab, Colledge of Biological Sciences, China Agricultural University.
+- 2007-2011: B.S, School of Life Science and Biotechnology, Dalian University of Technology, China.
 
 ### Research of Interest
-Hello, everyone!
 
-I am a freshman in GitHub. Currently, I am a postdoctoral fellow focusing on applying and developing Bioinformatics and mathematical methods to study (especially histone variant related) epigenetic modifications and their impacts on gene transcription, DNA replication, evolution and diseases in model organisms. Beside those languages for web development,e.g. html, php, CSS and mysql, I am also familiar with Python, R. Beyond that, I like jogging, playing soccer and singing.
+Begining as a Ph.D. in Bioinformatics, currently my research of interest mainly focus on:
+
+- Based on web crawlers, database technology and deep learning methods to develop personalized dietary nutrition recommendation system and health big data platform.
+- Using single-cell high-throughput omics technology and virtual cell methods to screen key immune markers for autoimmune diseases, allergies and neuroimmunological diseases, and explore their immunological functional mechanisms.
+- Investigate the mechanism and regulatory target of functional foods, such as probiotics and dietary fiber, in regulating intestinal flora, mediating glial cells and immune cells to improve the host's pathological state.
