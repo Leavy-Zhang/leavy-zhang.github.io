@@ -12,4 +12,3 @@ This file lists all non-trivial changes to Leavy Zhang's homepage (Thanks the te
 
 **2018-01-18** Compilation and release of this homepage for Leavy-Zhang
 
-**2015-03-12** Beautiful Jekyll version 0.0000001 is released!
