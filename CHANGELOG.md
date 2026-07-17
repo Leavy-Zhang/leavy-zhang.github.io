@@ -10,5 +10,5 @@ This file lists all non-trivial changes to Leavy Zhang's homepage (Thanks the te
 
 **2023-05-21** Updated Information of self-introduction and publications.
 
-**2018-01-18** Compilation and release of this homepage for Leavy-Zhang
+**2019-01-10** Compilation and release of this homepage for Leavy-Zhang
 
