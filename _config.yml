@@ -26,7 +26,9 @@ navbar-links:
   About Me: "aboutme"
   Code & Project:
     - GraP: "http://structuralbiology.cau.edu.cn/GraP/"
-    - Replication Code: "https://github.com/Leavy-Zhang/RepliCode"
+    - RepliCode: "https://github.com/Leavy-Zhang/RepliCode"
+    - scMPCDS: "https://github.com/Leavy-Zhang/scMPCDS"
+    - BL99-MLcode: "https://github.com/Leavy-Zhang/BL99-MLcode"
   Archive: "archive"
   Activity: 
     - ResearchGate: "https://www.researchgate.net/profile/Leavy_Zhang"
