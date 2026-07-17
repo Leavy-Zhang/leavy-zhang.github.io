@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Leavy Zhang
-subtitle: Postdoctoral fellow in high-throughput data mining and Bioinformatics development
+title: Liwei Zhang (Leavy Zhang)
+subtitle: Associate Professor in machine learning/AI and Bioinformatics
 show-avatar: false
 ---
 
