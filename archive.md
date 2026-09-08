@@ -9,7 +9,7 @@ layout: page
 ##### [2026]
 
 + Zhengyang Zhang<sup>#</sup>, **Liwei Zhang<sup>#\*</sup>**, Peng An<sup>#</sup>, Xu Zhang, Yi Xia, Yunlu Kang, Xiaoxia Chen, Rongrong Hua, Yinhua Zhu, Yanling Hao, Yuan Huang<sup>*</sup> ,Yongting
-Luo<sup>*</sup>, Junjie Luo<sup>*</sup>, Guisheng Wang<sup>*</sup>. (2026). Single-cell profiling of mitochondrial phenotyping-coupled mtDNA genotyping. **PNAS**. (in press)
+Luo<sup>*</sup>, Junjie Luo<sup>*</sup>, Guisheng Wang<sup>*</sup>. (2026). Single-cell profiling of mitochondrial phenotyping-coupled mtDNA genotyping. **PNAS**. doi: 10.1073/pnas.2531151123. [[link]](https://www.pnas.org/doi/10.1073/pnas.2531151123)
 
 + Fengyu Guo<sup>#</sup>, **Liwei Zhang<sup>#</sup>**, Minlong Wang<sup>#</sup>, Yanjin Du, Tianyu Zhang, Hao Chen, Jiazeng Sun, Yang Yu, Zude He, Jie An, Xiaoxu Zhang, Weilin Lin, Fazheng Ren, Pengjie Wang<sup>#</sup>, Ping Liu<sup>#</sup>. (2026). SuFEx-Enabled Reprogramming of Flavonoids for Selective α-Glucosidase Covalent Inhibition. **Advanced Science**. doi: 10.1002/advs.75869. [[link]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.75869)
 
